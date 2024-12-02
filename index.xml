@@ -9,10 +9,10 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;date = &amp;lsquo;2024-12-02T17:13:48+08:00&amp;rsquo;&#xA;draft = true&#xA;title = &amp;lsquo;My bolg&amp;rsquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;我的博客&#34;&gt;我的博客&lt;/h2&gt;&#xA;&lt;p&gt;You can try CommonMark here.  This dingus is powered by&#xA;&lt;a href=&#34;https://github.com/commonmark/commonmark.js&#34;&gt;commonmark.js&lt;/a&gt;, the&#xA;JavaScript reference implementation.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在读湘南学院&lt;/li&gt;&#xA;&lt;li&gt;我常居&#xA;&lt;ul&gt;&#xA;&lt;li&gt;湖南永州&lt;/li&gt;&#xA;&lt;li&gt;湖南郴州&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;+++&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;h2 id=&#34;我的博客&#34;&gt;我的博客&lt;/h2&gt;&#xA;&lt;p&gt;欢迎光临&lt;/p&gt;&#xA;&lt;p&gt;在读湘南学院&lt;/p&gt;&#xA;&lt;p&gt;我常居&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;湖南永州&lt;/li&gt;&#xA;&lt;li&gt;湖南郴州&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
