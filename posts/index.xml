@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;date = &amp;lsquo;2024-12-02T17:13:48+08:00&amp;rsquo;&#xA;draft = true&#xA;title = &amp;lsquo;My First Post&amp;rsquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-commonmark&#34;&gt;Try CommonMark&lt;/h2&gt;&#xA;&lt;p&gt;You can try CommonMark here.  This dingus is powered by&#xA;&lt;a href=&#34;https://github.com/commonmark/commonmark.js&#34;&gt;commonmark.js&lt;/a&gt;, the&#xA;JavaScript reference implementation.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;item one&lt;/li&gt;&#xA;&lt;li&gt;item two&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sublist&lt;/li&gt;&#xA;&lt;li&gt;sublist&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;+++&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
